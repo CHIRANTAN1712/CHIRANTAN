@@ -355,7 +355,6 @@
   </div>
   <div class="footer-bar">
     Portfolio generated on 2025-08-04.
-    <img src="image2" alt="ICMR NIRTH Logo" class="footer-logo">
   </div>
   <script>
     function showTab(event, tabId) {
